@@ -1,4 +1,4 @@
-# Performance Monitoring
+# Performance monitoring
 
 The performance of your application plays a huge role in determining user satisfaction. The following statistics show the impact that just one second of delay can make.
 
