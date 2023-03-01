@@ -129,7 +129,7 @@ It is expected that you will start at the top of the list and work your way down
 - [Progressive web applications](webFrameworks/pwa/pwa.md)
   - ☑ [Simon PWA](simon/simon-pwa/simon-pwa.md) (due 4/7)
 - [Security](security/overview/overview.md)
-  - [OWASP top 10](security/OWASP/owasp.md)
+  - [OWASP top 10](security/owasp/owasp.md)
   - 🚧 [Practice](webFrameworks/security/practice/practice.md)
 - [TypeScript](webFrameworks/typeScript/typeScript.md)
 - [Performance monitoring](webFrameworks/performanceMonitoring/performanceMonditoring.md)
